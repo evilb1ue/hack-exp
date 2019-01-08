@@ -1,10 +1,16 @@
 # 大纲
 
 * [简介](README.md)
+* [基础篇](Base/README.md)
+    * [ELF](Base/ELF/README.md)
+        * [ASLR&PIE](Base/ELF/ASLRPIE.md)
+    * [ASM](Base/ASM/README.md)
+        * [参数传递-AMD64位](Base/ASM/ParamPass64.md)
 * [技巧篇](Skill/README.md)
     * [信息搜集](Skill/InformationGathering/README.md)
     * [Shellcode编写](Skill/Shellcode/README.md)
 * [工具篇](Util/README.md)
+    * [GCC](Util/gcc.md)
 * [资源篇](Resource/README.md)
     * [Vulnerability](Resource/Vulnerability.md)
     * [Shellcode](Resource/Shellcode.md)
